@@ -10,6 +10,7 @@ const Layout = ({ children, title = 'Crypto Tracker' }) => {
       </Head>
       <header className='header'>
         <Link href='/' passHref>
+          <h1> Heading 1 goes here </h1>
           <a>
             <svg
               width='675'
@@ -20,7 +21,7 @@ const Layout = ({ children, title = 'Crypto Tracker' }) => {
               className='coin_logo'
             >
               <defs>
-                 <h1> Heading 1 goes here </h1>
+     
                 <linearGradient
                   id='paint0_linear'
                   x1='348.75'
