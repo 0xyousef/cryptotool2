@@ -13,7 +13,7 @@ const Layout = ({ children, title = 'Crypto Tracker' }) => {
         <h1>Understanding Blockchain and its correlation to Cryptocurrency</h1>
 
 
-          <h2><br> (Project tool 1) </h2>
+          <h2> (Project tool 1) </h2>
         <Link href='/' passHref>
           <a>
             <svg
