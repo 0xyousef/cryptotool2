@@ -25,13 +25,6 @@ body {
   background-color: #0b424c;
 }
 
-h1
-{
-  idth:500px;
-    margin: 50%;
-    text-align: center;
-}
-
 .coin_app {
   display: flex;
   flex-direction: column;
