@@ -9,10 +9,10 @@ const Layout = ({ children, title = 'Crypto Tracker' }) => {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <header className='header'>
-        </br>
-        <h1>Heading 1 goes here </h1>
-</br>
-         <h2> Heading 1 goes here </h2>
+       
+        <h1>Understanding Blockchain and its correlation to Cryptocurrency</h1>
+<br>
+          <h2> (Project tool 1)<h2>
         <Link href='/' passHref>
           <a>
             <svg
