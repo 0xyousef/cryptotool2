@@ -10,7 +10,7 @@ const Layout = ({ children, title = 'Crypto Tracker' }) => {
       </Head>
       <header className='header'>
        
-        <h1 style = "position:absolute; left:80px; top:20px; >Understanding Blockchain and its correlation to Cryptocurrency</h1>
+        <h1 style = "position:absolute;" "left:80px;" "top:20px;" >Understanding Blockchain and its correlation to Cryptocurrency</h1>
 
         <Link href='/' passHref>
           <a>
