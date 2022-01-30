@@ -11,8 +11,9 @@ const Layout = ({ children, title = 'Crypto Tracker' }) => {
       <header className='header'>
        
         <h1>Understanding Blockchain and its correlation to Cryptocurrency</h1>
+<br>
 
-          <h2> (Project tool 1) </br><h2>
+          <h2> (Project tool 1) </h2>
         <Link href='/' passHref>
           <a>
             <svg
